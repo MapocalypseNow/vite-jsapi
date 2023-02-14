@@ -1,1 +1,0 @@
-import{ci as o,dY as c}from"./index.f1f1f1c7.js";const i=96;function a(t,n){const e=n||t.extent,r=t.width,f=o(e&&e.spatialReference);return e&&r?e.width/r*f*c*i:0}function d(t,n){return t/(o(n)*c*i)}export{a as i,d as r};
